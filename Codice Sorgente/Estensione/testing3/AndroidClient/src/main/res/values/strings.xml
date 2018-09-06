@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">K-MEANS</string>
+    <string name="tab_text_1">DB</string>
+    <string name="tab_text_2">FILE</string>
+    <string name="action_settings">Esci</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="table_Frag1">Table:</string>
+    <string name="text_table_Frag1">Table</string>
+    <string name="k_Frag1">Numero di cluster:</string>
+    <string name="text_k_Frag1">k</string>
+    <string name="nomefile_Frag1">nomefile</string>
+    <string name="nome_file_Frag1">Nome file:</string>
+    <string name="numero_di_cluster_Frag1">Numero di cluster:</string>
+    <string name="mine_Frag1">MINE</string>
+    <string name="nome_file_Frag2">Nome File:</string>
+    <string name="nome_file_F2">Nome File</string>
+    <string name="store_from_file_Frag2">STORE FROM FILE</string>
+    <string name="ip">IP:</string>
+    <string name="port">PORT:</string>
+    <string name="settare_l_indirizzo_ip_e_la_port_per_connettersi_al_server">Settare l\'indirizzo IP e la PORT per connettersi al server</string>
+
+</resources>
